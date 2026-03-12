@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+    <File Path="Repository.json" />
+  </Folder>
+  <Project Path="MobileBlast_Fix/MobileBlast_Fix.csproj" />
+</Solution>

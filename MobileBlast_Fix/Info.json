@@ -1,0 +1,12 @@
+﻿{
+  "Id": "MobileBlast_Fix",
+  "DisplayName": "MobileBlast Fix",
+  "Author": "JasonStroon",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.20.0",
+  "Requirements": [],
+  "AssemblyName": "MobileBlast_Fix.dll",
+  "EntryMethod": "MobileBlast_Fix.Main.Load",
+  "HomePage": "",
+  "Repository": ""
+}
